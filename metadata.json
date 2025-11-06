@@ -1,0 +1,5 @@
+{
+  "name": "Learn Your Way",
+  "description": "An AI-powered tool that generates personalized learning plans based on your topic of interest, current knowledge level, and preferred learning style. Get a custom-tailored roadmap to master new skills.",
+  "requestFramePermissions": []
+}
